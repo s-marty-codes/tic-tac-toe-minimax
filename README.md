@@ -19,8 +19,8 @@ From a computational modeling standpoint, this project explores the shift betwee
 
 ## Structure of the current (stochastic) version:
 - **`tris.h`**: The header file containing the core definitions. 
-- **`tris.cpp`**: The implementation of the game logic.
-- **`main.cpp`**: The entry point that initializes the random seed and starts the game loop via `iniziaGioco()`.
+- **`tris.cc`**: The implementation of the game logic.
+- **`main.cc`**: The entry point that initializes the random seed and starts the game loop via `iniziaGioco()`.
 
 ## Roadmap
 [x] Initial C++ game framework (University project)
